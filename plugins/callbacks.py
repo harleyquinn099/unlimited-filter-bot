@@ -33,12 +33,12 @@ async def cb_handler(client, query):
                    InlineKeyboardButton("𝙲𝚘𝚖𝚖𝚊𝚗𝚍 𝙷𝚎𝚕𝚙", callback_data="help_data")
                 ],
                 [
-                   InlineKeyboardButton("🗣️𝙶𝚛𝚘𝚞𝚙", url="https://t.me/Mo_tech_group"),
-                   InlineKeyboardButton("🤖Bot List", url="https://t.me/Mo_Tech_YT/176"),
-                   InlineKeyboardButton("👨‍💻Source", url="https://youtu.be/KrpqqNNLUSU")
+                   InlineKeyboardButton("🗣️𝙶𝚛𝚘𝚞𝚙", url="https://t.me/filmgallery0999"),
+                   InlineKeyboardButton("🔘𝚌𝚑𝚊𝚗𝚗𝚎𝚕", url="https://t.me/unlimtedmovie00"),
+                   InlineKeyboardButton("👨‍💻Source", url="https://github.com/harleyquinn099/unlimited-filter-bot")
                 ],
                 [
-                   InlineKeyboardButton("🔻 Subscribe Now YouTube 🔻", url="https://youtu.be/KrpqqNNLUSU")
+                   InlineKeyboardButton("🔻 𝙿𝙼 🔻", url="https://t.me/uniunioo")
                 ]
             ]
         )
@@ -55,11 +55,11 @@ async def cb_handler(client, query):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("🗣️𝙶𝚛𝚘𝚞𝚙", url="https://t.me/Mo_tech_group"),
+                    InlineKeyboardButton("🗣️𝙶𝚛𝚘𝚞𝚙", url="https://t.me/unlimtedmovie00"),
                     InlineKeyboardButton("About Me👨‍💼", callback_data="about_data")
                 ],
                 [
-                    InlineKeyboardButton("🖥️ 𝙷𝚘𝚠 𝚝𝚘 𝙳𝚎𝚙𝚕𝚘𝚢 🖥️", url="https://youtu.be/KrpqqNNLUSU")
+                    InlineKeyboardButton("🖥️ 𝙷𝚘𝚠 𝚝𝚘 𝙳𝚎𝚙𝚕𝚘𝚢 🖥️", url="https://github.com/harleyquinn099/unlimited-filter-bot")
                 ]
             ]
         )
@@ -77,7 +77,7 @@ async def cb_handler(client, query):
             [
                 [
                     InlineKeyboardButton(
-                        "⛓️ 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 ⛓️", url="https://github.com/MRK-YT/Unlimited-Filter-Bot")
+                        "⛓️ 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 ⛓️", url="https://github.com/harleyquinn099/unlimited-filter-bot")
                 ],
                 [
                     InlineKeyboardButton("🔙 𝙱𝚊𝚌𝚔", callback_data="help_data"),
